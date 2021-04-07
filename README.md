@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me https://github.com/aiwithvats or https://www.linkedin.com/feed/
+- 📫 How to reach me https://github.com/aiwithvats or https://www.linkedin.com/in/amritansh-vats-016291204/
